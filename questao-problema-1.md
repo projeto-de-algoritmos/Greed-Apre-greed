@@ -1,4 +1,8 @@
-# Problema da moeda
+# Questão problema 1
+
+## Tema: Algoritimos gulosos
+
+
 
 ## Contextualizando o problema:
 
@@ -11,6 +15,9 @@ João trabalha junto com seu pai, em um armazem, no caso joão ficou responsavel
 
 
 ## Como funciona o algoritimo:
+
+
+##
 
 ## Sequência de decisões:
 

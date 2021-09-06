@@ -53,7 +53,6 @@ int main(){
     
     troco = Troco_final(compra, dinheiro);
 
-
     Calcular_Troco_Guloso(valores, troco);
 
     return 0;
