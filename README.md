@@ -9,7 +9,7 @@
 
 
 ## Sobre 
-O projeto é uma abordagem do método educacional PBL(aprendizagem baseada em problemas) aplicado a algorítimos gulosos.
+O projeto é uma abordagem do método educacional PBL(aprendizagem baseada em problemas) aplicado a algoritmos gulosos.
 
 O que é o método PBL? Diferentemente da métodologia tradicional ela busca uma  estratégia de metodologia ativa, que o principal protagonista é o aluno, com o objetivo de ajudar o estudante entender como que funciona a teoria junto com a prática, além disso, com mais engajamento, autonomia e protagonismo.
 

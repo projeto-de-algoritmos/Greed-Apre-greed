@@ -1,14 +1,14 @@
 # Questão problema 1
 
-## Tema: algorítimos gulosos
+## Tema: algoritmos gulosos
 
 ## Contextualizando o problema:
 
 <p style="text-indent: 20px; text-align: justify">
-&emsp;&emsp;João trabalha junto com seu pai, em um armazém, no caso joão ficou responsável para cuidar do caixa, assim o joão passa horas e horas fazendo a mesma coisa, recebendo dinheiro e passando troco. Ultimamente joão está tendo alguns problemas em relação a troco, ás vezes joão acaba ficando sem troco e isso é bem ruim. Em um certo dia da sua folga, joão estava bem entendiado e pensou um pouco sobre seu problema, logo depois de algumas pesquisas no google o joão achou algumas prováveis soluções, entre elas esta um tal de algorítimo guloso, joão ficou bem curioso sobre esse tipo de algorítimo e decidiu estudar o dia todo, depois disso joão pediu ajudar o seu amigo que estuda na UNG-fgq, que no caso é você, joão ficou sabendo que você usou algo do tipo na matéria de Trabalho de algoritmos e pediu sua ajuda, ajude o joão resolver esse problema.</p>
+&emsp;&emsp;João trabalha junto com seu pai, em um armazém, no caso joão ficou responsável para cuidar do caixa, assim o joão passa horas e horas fazendo a mesma coisa, recebendo dinheiro e passando troco. Ultimamente joão está tendo alguns problemas em relação a troco, ás vezes joão acaba ficando sem troco e isso é bem ruim. Em um certo dia da sua folga, joão estava bem entendiado e pensou um pouco sobre seu problema, logo depois de algumas pesquisas no google o joão achou algumas prováveis soluções, entre elas esta um tal de algoritmo guloso, joão ficou bem curioso sobre esse tipo de algoritmo e decidiu estudar o dia todo, depois disso joão pediu ajudar o seu amigo que estuda na UNG-fgq, que no caso é você, joão ficou sabendo que você usou algo do tipo na matéria de Trabalho de algoritmos e pediu sua ajuda, ajude o joão resolver esse problema.</p>
 
 
-## Porque é um problema de algorítimos guloso?
+## Porque é um problema de algoritmos guloso?
 
 <p style="text-indent: 20px; text-align: justify">
 &emsp;&emsp;Vamos lista algumas características da nossa questão. </p>
@@ -19,7 +19,7 @@
 
 
 <p style="text-indent: 20px; text-align: justify">
-&emsp;&emsp;Com esses aspectos, podemos ver que se tratar de uma algorítimo guloso.</p>
+&emsp;&emsp;Com esses aspectos, podemos ver que se tratar de uma algoritmo guloso.</p>
 
 
 ## Sequência de decisões:
@@ -37,13 +37,13 @@
 &emsp;&emsp;No primeiro passo do nosso codigo, precisamos definir um vetor, que no caso possui os valores de cédulas diferentes que temos na maquina registradora. Na iamgem abaixo podemos ver um vetor com tamanho [7], que é quantas cédulas diferentes temos em nossa caixa registradora. </p>
 
 ![](/images/1.png)
-<center>[Imagem 1](/images/1.png) </center>
+
 
 <p style="text-indent: 20px; text-align: justify">
 &emsp;&emsp;Depois de feito esse primeiro passo vamos mostra um exemplo. Imagine  a seguinte situação, queriamos devolver um troco no valor de 30 reais, e para isso temos diponíves as seguintes cédulas. [100, 50, 10, 1]. </p>
 
 <p style="text-indent: 20px; text-align: justify">
-&emsp;&emsp;Usando o nosso aloritimo guloso ele vai retorna a seguinte saida. [25, 1, 1, 1, 1, 1]. Mas será que é a melhor solçao? Já respondo a pergunta não! A melhor solução seria, [10, 10, 10], para esse caso talvez usar esse tipo de algorítimo não seria a melhor opção, conseguiriamos resolver isso com outros métodos, como programação dinamica. </p>
+&emsp;&emsp;Usando o nosso aloritimo guloso ele vai retorna a seguinte saida. [25, 1, 1, 1, 1, 1]. Mas será que é a melhor solçao? Já respondo a pergunta não! A melhor solução seria, [10, 10, 10], para esse caso talvez usar esse tipo de algoritmo não seria a melhor opção, conseguiriamos resolver isso com outros métodos, como programação dinamica. </p>
 
 <p style="text-indent: 20px; text-align: justify">
 &emsp;&emsp;Conslusão: Nesses tipos de problemas precisamos identificar se o problema que vocês está resolvendo tem todas as características que se encaixem nas estratégias de algoritmos gulosos. </p>
@@ -64,7 +64,7 @@
 
 ## Considerações FInais
 <p style="text-indent: 20px; text-align: justify">
-&emsp;&emsp; O grande objetivo desse projeto é tentar mostrar o raciocínio por trás de um algorítimos guloso, do problema até a solução final. Escrever algorítimos é uma parte do processo muito importante, mais o aprendizado de um raciocínio é oque você vai levar da matéria de projeto de algorítimo para o resto da sua carreira! </p> :p 
+&emsp;&emsp; O grande objetivo desse projeto é tentar mostrar o raciocínio por trás de um algoritmos guloso, do problema até a solução final. Escrever algoritmos é uma parte do processo muito importante, mais o aprendizado de um raciocínio é oque você vai levar da matéria de projeto de algoritmo para o resto da sua carreira! </p> :p 
 
 
 
