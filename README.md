@@ -23,7 +23,12 @@ O que é o metodo PBL? Diferentimente da métodologia tradicional ela busca uma 
 
 ## Screenshots
 
+Entradas e saidas do codigo.
 ![](/images/4.png)
+Por ser baseado em PBL, a questão problema faz parte do projeto.
+![](/images/6.png)
+Por ser baseado em PBL, a esplicação detalhada faz parte desse processo também
+![](/images/8.png)
 
 ## Instalação 
 **Linguagem**: C<br>
