@@ -9,7 +9,7 @@
 
 
 ## Sobre 
-O projeto é uma abordagem do método educacional PBL(aprendizagem baseada em problemas) aplicado a algoritimos gulosos.
+O projeto é uma abordagem do método educacional PBL(aprendizagem baseada em problemas) aplicado a algorítimos gulosos.
 
 O que é o metodo PBL? Diferentimente da métodologia tradicional ela busca uma  estratégia de metodologia ativa, que o principal protagonista é o aluno, com o objetivo de ajudar o estudante entender como que funciona a teoria junto com a pratica, além disso com mais engajamento, autonomia e protagonismo.
 
@@ -22,7 +22,8 @@ O que é o metodo PBL? Diferentimente da métodologia tradicional ela busca uma 
 * **Questão problema 1:** Nessa questão vai ser aplicado o métodologia na questão classica de algoritmos guloso "Problema do troco", além de todo o desenvolvimento do contexto, o codigo foi feita de maneira mais simples possivel para que qualquer pessoa que tenha o conhecimento basico de linguagem C, consiga entender.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![](/images/4.png)
 
 ## Instalação 
 **Linguagem**: C<br>
@@ -34,7 +35,10 @@ De maneira bem simples e objetiva, o uso desse projeto é baseado em 3 passos.
 
 1- Abrir e Ler a [Questão Problema](./questao-problema-1.md), para entender o contexto da applicação.
 
+
 2- Abrir e Ler o [Codigo da solução do problema](./solucao-problema-1.c)
+
+
 
 3- Compilar e execultar o codigo.
 

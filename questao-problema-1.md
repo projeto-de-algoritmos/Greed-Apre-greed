@@ -1,21 +1,21 @@
 # Questão problema 1
 
-## Tema: Algoritimos gulosos
+## Tema: algorítimos gulosos
 
 ## Contextualizando o problema:
 
-João trabalha junto com seu pai, em um armazem, no caso joão ficou responsavel para cuidar do caixa, assim o joão passa horas e horas fazendo a mesma coisa, recebndo dinheiro e passando troco. Ultimamente joão está tendo alguns problemas em relação a troco, as vezes joão acaba ficando sem troco e isso é bem ruim. Em um certo dia da sua folga, joão estava bem entendiado e pensou um pouco sobre seu problema, logo logo depois de algumas pesquisas no google o joão achou algumas provaveis soluções, entre elas esta um tal de algoritimo guloso, joão ficou bem curioso sobre esse tipo de algoritimo e decidiu estudar o dia todo, depois disso joão pediu ajudar o seu amigo que estuda na UNG-fgq, que no caso é você, joão ficou sabendo que você usou algo do tipo na materia de Trabalho de algoritmos e pediu sua ajuda, ajude o joão resolver esse problema.
+João trabalha junto com seu pai, em um armazém, no caso joão ficou responsável para cuidar do caixa, assim o joão passa horas e horas fazendo a mesma coisa, recebendo dinheiro e passando troco. Ultimamente joão está tendo alguns problemas em relação a troco, ás vezes joão acaba ficando sem troco e isso é bem ruim. Em um certo dia da sua folga, joão estava bem entendiado e pensou um pouco sobre seu problema, logo depois de algumas pesquisas no google o joão achou algumas prováveis soluções, entre elas esta um tal de algorítimo guloso, joão ficou bem curioso sobre esse tipo de algorítimo e decidiu estudar o dia todo, depois disso joão pediu ajudar o seu amigo que estuda na UNG-fgq, que no caso é você, joão ficou sabendo que você usou algo do tipo na matéria de Trabalho de algoritmos e pediu sua ajuda, ajude o joão resolver esse problema.
 
 
-## Porque é um problema de algoritimos guloso?
+## Porque é um problema de algorítimos guloso?
 
-Vamos lista algumas caracteristicas da nossa questão.
+Vamos lista algumas características da nossa questão.
 
 1- A cada passo é escolhido o maior valor possível da moeda.
 2- Um novo subproblema aparece, com um valor de troco cada vez menor, que é crianda a cada nova interação.
 3- Uma vez que um valor de uma moeda é selecionada, não se retira mais este valor do conjunto solução.
 
-Com esses aspectos, podemos ver que se tratar de uma algoritimo guloso.
+Com esses aspectos, podemos ver que se tratar de uma algorítimo guloso.
 
 
 ## Sequência de decisões:
@@ -38,7 +38,7 @@ Imagine  a seguinte situação, queriamos devolver um troco no valor de 30 reais
 
 Usando o nosso aloritimo guloso ele vai retorna a seguinte saida. [25, 1, 1, 1, 1, 1].
 
-Mas será que é a melhor solçao? Já respondo a pergunta não! A melhor solução seria, [10, 10, 10], para esse caso talvez usar esse tipo de algoritimo não seria a melhor opção, conseguiriamos resolver isso com outros métodos, como programação dinamica.
+Mas será que é a melhor solçao? Já respondo a pergunta não! A melhor solução seria, [10, 10, 10], para esse caso talvez usar esse tipo de algorítimo não seria a melhor opção, conseguiriamos resolver isso com outros métodos, como programação dinamica.
 
 Conslusão: Nesses tipos de problemas precisamos identificar se o problema que vocês está resolvendo tem todas as características que se encaixem nas estratégias de algoritmos gulosos. 
 
@@ -55,7 +55,7 @@ A saída consiste de um output que seria, os valores das cedulas a serem devolvi
 ![](/images/3.png)
 
 ## Considerações FInais
-O grande objetivo desse projeto é tentar mostrar o raciocionio por trás de um algoritimos guloso, do problema até a solução final. Escrever agoritimos é uma parte do processo muito importante, mais o aprendizado de um raciocionio é oque você vai levar da materia de projeto de algoritimo para o resto da sua carreira! :p 
+O grande objetivo desse projeto é tentar mostrar o raciocínio por trás de um algorítimos guloso, do problema até a solução final. Escrever algorítimos é uma parte do processo muito importante, mais o aprendizado de um raciocínio é oque você vai levar da matéria de projeto de algorítimo para o resto da sua carreira! :p 
 
 
 
